@@ -1,5 +1,5 @@
 # Winlator Turnip Drivers
-A repository for Winlator Mesa Turnip drivers.
+A repository containing custom drivers for <a href="https://github.com/brunodev85/winlator">Winlator</a>
 
 ---
 
@@ -7,8 +7,6 @@ A repository for Winlator Mesa Turnip drivers.
 ![MarkusFundingReal](https://img.shields.io/badge/funding-markus%20tech-9cf)
 
 ---
-
-A repository containing custom drivers for <a href="https://github.com/brunodev85/winlator">Winlator</a>
 
 - Turnip drivers are compiled from <a href="https://docs.mesa3d.org/index.html">Mesa</a>.
 
