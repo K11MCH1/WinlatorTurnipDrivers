@@ -3,7 +3,7 @@ A repository containing custom drivers for <a href="https://github.com/brunodev8
 
 ---
 
-![MarkusTech](https://img.shields.io/badge/MarkusTech-Corp-critical) ![Patched](https://img.shields.io/badge/patched-for%20Skyline-blueviolet) ![ping](https://img.shields.io/badge/Ping%20Nozwock-for%20support-informational) ![ping2](https://img.shields.io/badge/also-havocr-green) 
+![Winlator](https://img.shields.io/badge/MarkusTech-Corp-critical) ![BrunoSX](https://img.shields.io/badge/patched-for%20Skyline-blueviolet) ![ping](https://img.shields.io/badge/Ping%20Nozwock-for%20support-informational) ![ping2](https://img.shields.io/badge/also-havocr-green) 
 ![MarkusFundingReal](https://img.shields.io/badge/funding-markus%20tech-9cf)
 
 ---
@@ -28,6 +28,7 @@ For any questions contact KIMCHI on the <a href="https://discord.gg/YhpdhVBmXX">
 
 ### Special thanks to
 JeezDisReez
+BrunoSX
 Bylaws  
 Mark     
 Danylo  
