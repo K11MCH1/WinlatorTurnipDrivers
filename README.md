@@ -3,11 +3,6 @@ A repository containing custom drivers for <a href="https://github.com/brunodev8
 
 ---
 
-![Winlator](https://img.shields.io/badge/MarkusTech-Corp-critical) ![BrunoSX](https://img.shields.io/badge/patched-for%20Skyline-blueviolet) ![ping](https://img.shields.io/badge/Ping%20Nozwock-for%20support-informational) ![ping2](https://img.shields.io/badge/also-havocr-green) 
-![MarkusFundingReal](https://img.shields.io/badge/funding-markus%20tech-9cf)
-
----
-
 - Turnip drivers are compiled from <a href="https://docs.mesa3d.org/index.html">Mesa</a>.
 
 # Reporting issues
