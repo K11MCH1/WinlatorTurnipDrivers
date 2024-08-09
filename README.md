@@ -7,7 +7,8 @@ A repository containing custom drivers for <a href="https://github.com/brunodev8
 
 # Installation
 
-Coming soon.
+[Watch the first 3 minutes of this video](https://youtu.be/rQTpv2rtiOY?t=35)
+
 
 # Reporting issues
 
