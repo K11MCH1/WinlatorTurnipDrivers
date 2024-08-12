@@ -27,11 +27,11 @@ For any questions contact KIMCHI on the <a href="https://discord.gg/YhpdhVBmXX">
 ---
 
 ### Special thanks to
-JeezDisReez
-BrunoSX
-Bylaws  
-Mark     
-Danylo  
-Mesa Turnip team 
-Strato testers
-Winlator testers
+JeezDisReez<br/>
+BrunoSX<br/>
+Bylaws<br/>
+Mark<br/>
+Danylo<br/>
+Mesa Turnip team<br/>
+Strato testers<br/>
+Winlator testers<br/>
