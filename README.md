@@ -51,6 +51,7 @@ Strato testers<br/>
 Winlator testers<br/>
 
 ### Software used
-Termux<br/>
+Mesa [<a href="mesa3d.org">mesa3d.org</a>]<br/>
+Termux [<a href="https://f-droid.org/repo/com.termux_1000.apk">f-droid.org</a>]<br/>
 Proot<br/>
 Ubuntu Focal<br/>
