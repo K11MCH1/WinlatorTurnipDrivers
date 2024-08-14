@@ -36,6 +36,8 @@ https://gitlab.freedesktop.org/Pipetto-crypto/mesa/-/commit/d264c66f9950cb2331c2
 
 https://gitlab.freedesktop.org/Pipetto-crypto/mesa/-/commit/96c4cb07b2a52124021c807f2c1ad4ab1f1cbf9c
 
+Compile project with Proot distro Ubuntu Focal on Termux.
+
 ---
 
 ### Special thanks to
