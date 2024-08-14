@@ -35,3 +35,8 @@ Danylo<br/>
 Mesa Turnip team<br/>
 Strato testers<br/>
 Winlator testers<br/>
+
+### Software used
+Termux<br/>
+Proot<br/>
+Ubuntu Focal<br/>
