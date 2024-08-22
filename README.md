@@ -27,18 +27,18 @@ Copy paste libvulkan_freedreno.so into z:/usr/lib/aarch64-linux-gnu
 
 [Watch the first 3 minutes of this video](https://youtu.be/rQTpv2rtiOY?t=35) (Does not include .wcp installation)
 
----
+
 
 # Reporting issues
 
 Report them at <a href="https://gitlab.freedesktop.org/mesa/mesa/-/issues">Mesa Issues</a>.
 Not me. I cannot fix, nor will I report for you.
 
----
+
 
 For any questions contact KIMCHI on the <a href="https://discord.gg/YhpdhVBmXX">Strato discord.</a>
 
----
+
 
 # Compiling
 
@@ -52,7 +52,6 @@ https://gitlab.freedesktop.org/Pipetto-crypto/mesa/-/commit/96c4cb07b2a52124021c
 
 Compile project with Proot distro Ubuntu Focal on Termux.
 
----
 
 ### Special thanks to
 JeezDisReez<br/>
