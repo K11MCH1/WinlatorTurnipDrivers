@@ -6,7 +6,27 @@ A repository containing custom drivers for <a href="https://github.com/brunodev8
 
 # Installation
 
-[Watch the first 3 minutes of this video](https://youtu.be/rQTpv2rtiOY?t=35)
+### Using the .wcp file (Winlator GlibC 7.1.2 mods and up only)
+
+- Place it anywhere on your device.
+- In Winlator, open up the side menu.
+- Open the "Contents" page.
+- In the drop down box select Turnip.
+- Tap "Install Content" and navigate to the .wcp file.
+- Tap Continue.</br>
+
+Now you can select the driver in the Container settings.
+
+### For Winlator with Native GlibC:
+
+Copy paste libvulkan_freedreno.so into z:/usr/lib
+
+### For Winlator Proot (non-GlibC):
+
+Copy paste libvulkan_freedreno.so into z:/usr/lib/aarch64-linux-gnu
+
+
+[Watch the first 3 minutes of this video](https://youtu.be/rQTpv2rtiOY?t=35) (Does not include .wcp installation)
 
 ---
 
