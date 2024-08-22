@@ -37,11 +37,6 @@ Not me. I cannot fix, nor will I report for you.
 
 ---
 
-# Usage
-
-- [Winlator](docs/winlator.md)
-- [Winlator GlibC](docs/winlatorglibc.md)
-
 For any questions contact KIMCHI on the <a href="https://discord.gg/YhpdhVBmXX">Strato discord.</a>
 
 ---
