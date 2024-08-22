@@ -2,7 +2,6 @@
 A repository containing custom drivers for <a href="https://github.com/brunodev85/winlator">Winlator</a>
 - Turnip drivers are compiled from <a href="https://docs.mesa3d.org/index.html">Mesa</a> source.
 
----
 
 # Installation
 
