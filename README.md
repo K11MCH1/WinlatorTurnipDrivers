@@ -24,6 +24,8 @@ Copy paste libvulkan_freedreno.so into z:/usr/lib
 
 Copy paste libvulkan_freedreno.so into z:/usr/lib/aarch64-linux-gnu
 
+add BOX64_MMAP32=1 to the environment variables list if you are using older Wine than 9.4.
+
 
 [Watch the first 3 minutes of this video](https://youtu.be/rQTpv2rtiOY?t=35) (Does not include .wcp installation)
 
