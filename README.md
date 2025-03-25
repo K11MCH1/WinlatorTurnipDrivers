@@ -1,5 +1,5 @@
 # Important Announcement: 
-## With the discontinuation of the GLIBC project, this repository will no longer be maintained and will become inactive. Moving forward, Winlator Bionic with AdrenoTools will take its place as the preferred solution. The drivers provided by <a href="https://gitlab.freedesktop.org/mesa/mesa/-/issues">AdrenoToolsDrivers</a> are fully compatible with this new framework.
+## With the discontinuation of the GLIBC project, this repository will no longer be maintained and will become inactive. Moving forward, Winlator Bionic with AdrenoTools will take its place as the preferred solution. The drivers provided by <a href="https://github.com/K11MCH1/AdrenoToolsDrivers">AdrenoToolsDrivers</a> are fully compatible with this new framework.
 
 # Winlator Turnip Drivers
 A repository containing custom drivers for <a href="https://github.com/brunodev85/winlator">Winlator</a>
